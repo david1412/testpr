@@ -1,0 +1,2 @@
+git pull : Pull the current version of the code
+git clone : To clone the project
